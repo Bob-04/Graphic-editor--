@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/menu_icon.png</file>
+        <file>res/penInstrumentImg.jpg</file>
+        <file>res/rubberInstrumentImg.jpg</file>
+        <file>res/sprayStyleImg.jpg</file>
+        <file>res/rectangleFigureImg.jpg</file>
+        <file>res/sircleFigureImg.jpg</file>
+        <file>res/lineFigureImg.jpg</file>
+        <file>res/pouringStyleImg.jpg</file>
+        <file>res/triangleFigureImg.jpg</file>
+    </qresource>
+</RCC>
